@@ -1,7 +1,7 @@
-This invoice generator script to run on a Linux virtual machine.
+This is the invoice generator script to run on a Ubuntu virtual machine.
 
-It generates 10 invoices every 3 houts to the custumers defined on the 
-custumer.xlsx file, and ends after 24 hours of operations.
+It generates 10 invoices every 3 hours to the customers defined on the 
+custumer.xlsx file and ends after 24 hours of operation.
 
 Steps:
 1) Install dependencies on requirements.txt:
