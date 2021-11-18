@@ -1,7 +1,7 @@
 This is the invoice generator script to run on windows local machine
 
 It generates 10 invoices every 3 houts to the custumers defined on the 
-custumer.xlsx file, and ends after 24 hours of operations.
+custumer.xlsx file, and ends after 24 hours of operation.
 
 Steps:
 1) Install dependencies on requirements.txt:
